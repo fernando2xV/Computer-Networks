@@ -1,5 +1,6 @@
 # Peer-to-Peer chat application #
-### Project is divided in 5 files: Server, Client and twitter credentials scripts + ImagesDownloaded file ###
+Chatting application where the conversation is displayed on the server prompt (as well as in each clients prompt). In the server prompt, the Usernames of the different clients are hashed using SHA256 for security purposes. Below, some other peculiarities of the app are explained. 
+### Project is divided in 4 files: Server, Client and twitter credentials scripts + ImagesDownloaded file ###
 Libraries needed: Tweepy (see .txt on how to get the Access Token Keys)
 
 ### Instructions ###
