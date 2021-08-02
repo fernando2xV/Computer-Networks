@@ -1,7 +1,7 @@
 ### Interactive Peer-to-Peer chat application based on TCP that redirects patients to doctors based on a symptom’s survey. ###
 Using socket programming.
 
-Instructions
+### Instructions ###
 Environment requires python3 installed in system, anaconda3 preferred
 
     $ cd project2_fernando
